@@ -1,0 +1,9 @@
+Type,Read_v2,Read_v3,Description
+ADR,U60C4,U60C4,Angiotensin-converting-enzyme inhibitors causing adverse effects in therapeutic use
+ADR,U60C4,TJC77,"Angiotensin-converting-enzyme inhibitors causing adverse effects in therapeutic use, captopril"
+ADR,U60C4,TJC78,"Angiotensin-converting-enzyme inhibitors causing adverse effects in therapeutic use, enalapril"
+ADR,U60C4,TJC79,"Angiotensin-converting-enzyme inhibitors causing adverse effects in therapeutic use, ramipril"
+ADR,U60C4,Xa5cV,"Angiotensin-converting-enzyme inhibitors causing adverse effects in therapeutic use, lisinopril"
+Allergy,ZV14D,XaJ8Y,Personal history of angiotensin-converting-enzyme inhibitor allergy
+Allergy,14LM.,XaJ5y,Angiotensin converting enzyme inhibitor allergy
+Allergy,8I74.,XaJ5e,Angiotensin converting enzyme inhibitor not tolerated

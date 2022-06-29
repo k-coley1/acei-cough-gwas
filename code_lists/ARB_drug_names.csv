@@ -1,0 +1,35 @@
+﻿ARB,type,name
+Azilsartan,ARB,Edarbi
+Azilsartan,Generic,Azilsartan
+Candesartan,ARB,Amias
+Candesartan,ARB,Atacand
+Candesartan,ARB,Ratacand
+Candesartan,Generic,Candesartan
+Eprosartan,ARB,Teveten
+Eprosartan,Generic,Eprosartan
+Irbesartan,ARB,Aprovel
+Irbesartan,ARB,Ifirmasta
+Irbesartan,ARB,Karvea
+Irbesartan,ARB,Sabervel
+Irbesartan,ARB + TZ,Co-Irbesartan
+Irbesartan,ARB + TZ,Coaprovel
+Irbesartan,Generic,Irbesartan
+Losartan,ARB,Cozaar
+Losartan,ARB,Losaprex
+Losartan,ARB,Zovencal
+Losartan,ARB + TZ,Hyzaar
+Losartan,Generic,Losartan
+Olmesartan,ARB,Olmetec
+Olmesartan,ARB + CCB,Sevikar
+Olmesartan,Generic,Olmesartan
+Telmisartan,ARB,Micardis
+Telmisartan,ARB,Tolura
+Telmisartan,ARB + TZ,Actelsar
+Telmisartan,ARB + TZ,Micardisplus
+Telmisartan,ARB + TZ,Tolucombi
+Telmisartan,Generic,Telmisartan
+Valsartan,ARB,Diovan
+Valsartan,ARB + ARNI,Entresto
+Valsartan,ARB + CCB,Exforge
+Valsartan,ARB + TZ,Co-Diovan
+Valsartan,Generic,Valsartan

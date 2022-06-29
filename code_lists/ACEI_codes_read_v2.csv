@@ -1,0 +1,202 @@
+﻿ACEI,Type,Read_v2,Description,Dosage_mg
+Captopril,ACEI,bi11.,ACEPRIL 12.5mg tablets,12.5
+Captopril,ACEI,bi12.,ACEPRIL 25mg tablets,25
+Captopril,ACEI,bi13.,ACEPRIL 25mg tablets x56,25
+Captopril,ACEI,bi14.,ACEPRIL 50mg tablets,50
+Captopril,ACEI,bi15.,ACEPRIL 50mg tablets x56,50
+Captopril,ACEI,bi16.,*CAPOTEN 12.5mg tablets,12.5
+Captopril,ACEI,bi17.,CAPOTEN 25mg tablets,25
+Captopril,ACEI,bi18.,CAPOTEN 25mg tablets x56,25
+Captopril,ACEI,bi19.,CAPOTEN 50mg tablets,50
+Captopril,ACEI,bi1a.,CAPOTEN 50mg tablets x56,50
+Captopril,ACEI,bi1A.,*HYPAPRIL 12.5mg tablets,12.5
+Captopril,ACEI + TZ,bi1b.,ACEZIDE 50mg tablets x56,50
+Captopril,ACEI,bi1B.,*HYPAPRIL 25mg tablets,25
+Captopril,ACEI + TZ,bi1c.,*CAPOZIDE 50mg tablets x28,50
+Captopril,ACEI,bi1C.,*HYPAPRIL 50mg tablets,50
+Captopril,ACEI + TZ,bi1d.,*CAPOZIDE LS 25mg tabletsx28CP,25
+Captopril,ACEI + TZ,bi1D.,*CAPTO-CO 25mg/12.5mg tablets,25
+Captopril,ACEI + TZ,bi1e.,CAPTOPRIL+HYDROCHLOROTHIAZIDE 25mg/12.5mg tablets,25
+Captopril,ACEI + TZ,bi1E.,*CAPTO-CO 50mg/25mg tablets,50
+Captopril,ACEI + TZ,bi1f.,CAPTOPRIL+HYDROCHLOROTHIAZIDE 50mg/25mg tablets,50
+Captopril,ACEI + TZ,bi1F.,CO-ZIDOCAPT 25mg/12.5mg tablet,25
+Captopril,ACEI,bi1g.,ECOPACE 12.5mg tablets,12.5
+Captopril,ACEI + TZ,bi1G.,*CO-ZIDOCAPT 50mg/25mg tablets,50
+Captopril,ACEI,bi1h.,ECOPACE 25mg tablets,25
+Captopril,ACEI,bi1H.,NOYADA 5mg/5mL oral solution,5
+Captopril,ACEI,bi1i.,ECOPACE 50mg tablets,50
+Captopril,ACEI,bi1I.,CAPTOPRIL 5mg/5mL oral solution,5
+Captopril,ACEI,bi1j.,*KAPLON 12.5mg tablets,12.5
+Captopril,ACEI,bi1J.,NOYADA 25mg/5mL oral solution,25
+Captopril,ACEI,bi1k.,*KAPLON 25mg tablets,25
+Captopril,ACEI,bi1K.,CAPTOPRIL 25mg/5mL oral solution,25
+Captopril,ACEI,bi1l.,*KAPLON 50mg tablets,50
+Captopril,ACEI,bi1m.,*HYTENEZE 12.5 tablets,12.5
+Captopril,ACEI,bi1n.,*HYTENEZE 25 tablets,25
+Captopril,ACEI,bi1o.,*HYTENEZE 50 tablets,50
+Captopril,ACEI,bi1p.,*TENSOPRIL 12.5mg tablets,12.5
+Captopril,ACEI,bi1q.,*TENSOPRIL 25mg tablets,25
+Captopril,ACEI,bi1r.,*TENSOPRIL 50mg tablets,50
+Captopril,ACEI + TZ,bi1s.,CAPOZIDE 50mg/25mg tablets,50
+Captopril,ACEI,bi1v.,CAPTOPRIL 12.5mg tablets,12.5
+Captopril,ACEI,bi1w.,CAPTOPRIL 25mg tablets,25
+Captopril,ACEI,bi1x.,CAPTOPRIL 25mg tablets x56,25
+Captopril,ACEI,bi1y.,CAPTOPRIL 50mg tablets x56,50
+Captopril,ACEI,bi1z.,CAPTOPRIL 50mg tablets,50
+Cilazapril,ACEI,bi81.,CILAZAPRIL 250micrograms tablets,0.25
+Cilazapril,ACEI,bi82.,CILAZAPRIL 500micrograms tablets,0.5
+Cilazapril,ACEI,bi83.,*CILAZAPRIL 1mg tablets,1
+Cilazapril,ACEI,bi84.,*CILAZAPRIL 2.5mg tablets,2.5
+Cilazapril,ACEI,bi85.,*VASCACE 250micrograms tablets,0.25
+Cilazapril,ACEI,bi86.,*VASCACE 500micrograms tablets,0.5
+Cilazapril,ACEI,bi87.,*VASCACE 1mg tablets,1
+Cilazapril,ACEI,bi88.,*VASCACE 2.5mg tablets,2.5
+Cilazapril,ACEI,bi89.,*VASCACE 5mg tablets,5
+Cilazapril,ACEI,bi8a.,CILAZAPRIL 5mg tablets,5
+Enalapril,ACEI,bi21.,INNOVACE 2.5mg tablets,2.5
+Enalapril,ACEI,bi22.,INNOVACE 5mg tablets,5
+Enalapril,ACEI,bi23.,INNOVACE 5mg tablets x28,5
+Enalapril,ACEI,bi24.,INNOVACE 10mg tablets,10
+Enalapril,ACEI,bi25.,INNOVACE 10mg tablets x28,10
+Enalapril,ACEI,bi26.,INNOVACE 20mg tablets,20
+Enalapril,ACEI,bi27.,INNOVACE 20mg tablets x28,20
+Enalapril,ACEI + TZ,bi28.,INNOZIDE 20/12.5mg tablets,20
+Enalapril,ACEI,bi29.,INNOVACE tablets titration pack,
+Enalapril,ACEI,bi2a.,ENALAPRIL MALEATE tablets titration pack,
+Enalapril,ACEI,bi2A.,*ENALAPRIL MALEATE 2.5mg wafer,2.5
+Enalapril,ACEI + TZ,bi2b.,ENALAPRIL MALEATE+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,20
+Enalapril,ACEI,bi2B.,*ENALAPRIL MALEATE 5mg wafer,5
+Enalapril,ACEI,bi2C.,*ENALAPRIL MALEATE 10mg wafer,10
+Enalapril,ACEI,bi2D.,*ENALAPRIL MALEATE 20mg wafer,20
+Enalapril,ACEI,bi2E.,*INNOVACE MELT 2.5mg wafer,2.5
+Enalapril,ACEI,bi2F.,*INNOVACE MELT 5mg wafer,5
+Enalapril,ACEI,bi2G.,*INNOVACE MELT 10mg wafer,10
+Enalapril,ACEI,bi2H.,*INNOVACE MELT 20mg wafer,20
+Enalapril,ACEI,bi2J.,*PRALENAL 2.5mg tablets,2.5
+Enalapril,ACEI,bi2K.,*PRALENAL 5mg tablets,5
+Enalapril,ACEI,bi2L.,*PRALENAL 10mg tablets,10
+Enalapril,ACEI,bi2M.,*PRALENAL 20mg tablets,20
+Enalapril,ACEI,bi2t.,ENALAPRIL MALEATE 2.5mg tablets,2.5
+Enalapril,ACEI,bi2u.,ENALAPRIL MALEATE 5mg tablets,5
+Enalapril,ACEI,bi2v.,ENALAPRIL MALEATE 5mg tablets x28,5
+Enalapril,ACEI,bi2w.,ENALAPRIL MALEATE 10mg tablets,10
+Enalapril,ACEI,bi2x.,ENALAPRIL MALEATE 10mg tablets x28,10
+Enalapril,ACEI,bi2y.,ENALAPRIL MALEATE 20mg tablets,20
+Enalapril,ACEI,bi2z.,ENALAPRIL MALEATE 20mg tablets x28,20
+Fosinopril,ACEI,bi71.,FOSINOPRIL 10mg tablets,10
+Fosinopril,ACEI,bi72.,FOSINOPRIL 20mg tablets,20
+Fosinopril,ACEI,bi73.,*STARIL 10mg tablets,10
+Fosinopril,ACEI,bi74.,*STARIL 20mg tablets,20
+Imidapril,ACEI,biB1.,TANATRIL 5mg tablets,5
+Imidapril,ACEI,biB2.,TANATRIL 10mg tablets,10
+Imidapril,ACEI,biB3.,TANATRIL 20mg tablets,20
+Imidapril,ACEI,biBx.,IMIDAPRIL HYDROCHLORIDE 20mg tablets,20
+Imidapril,ACEI,biBy.,IMIDAPRIL HYDROCHLORIDE 5mg tablets,5
+Imidapril,ACEI,biBz.,IMIDAPRIL HYDROCHLORIDE 10mg tablets,10
+Lisinopril,ACEI,bi31.,LISINOPRIL 2.5mg tablets,2.5
+Lisinopril,ACEI,bi32.,LISINOPRIL 5mg tablets,5
+Lisinopril,ACEI,bi33.,LISINOPRIL 10mg tablets,10
+Lisinopril,ACEI,bi34.,LISINOPRIL 20mg tablets,20
+Lisinopril,ACEI,bi35.,*CARACE 2.5mg tablets,2.5
+Lisinopril,ACEI,bi36.,*CARACE 5mg tablets 28CP,5
+Lisinopril,ACEI,bi37.,*CARACE 5mg tablets,5
+Lisinopril,ACEI,bi38.,*CARACE 10mg tablets 28CP,10
+Lisinopril,ACEI,bi39.,*CARACE 10mg tablets,10
+Lisinopril,ACEI,bi3a.,*CARACE 20mg tablets 28CP,20
+Lisinopril,ACEI,bi3b.,*CARACE 20mg tablets,20
+Lisinopril,ACEI,bi3c.,*ZESTRIL 2.5mg tablets 28CP,2.5
+Lisinopril,ACEI,bi3d.,*ZESTRIL 2.5mg tablets,2.5
+Lisinopril,ACEI,bi3e.,ZESTRIL 5mg tablets 28CP,5
+Lisinopril,ACEI,bi3f.,ZESTRIL 5mg tablets,5
+Lisinopril,ACEI,bi3g.,ZESTRIL 10mg tablets 28CP,10
+Lisinopril,ACEI,bi3h.,ZESTRIL 10mg tablets,10
+Lisinopril,ACEI,bi3i.,ZESTRIL 20mg tablets 28CP,20
+Lisinopril,ACEI,bi3j.,ZESTRIL 20mg tablets,20
+Lisinopril,ACEI + TZ,bi3k.,CARACE 20 PLUS tablets,20
+Lisinopril,ACEI + TZ,bi3l.,*CARACE 10 PLUS tablets,10
+Lisinopril,ACEI + TZ,bi3m.,*ZESTORETIC tablets 28CP,
+Lisinopril,ACEI + TZ,bi3n.,ZESTORETIC 20/12.5mg tablets,20
+Lisinopril,ACEI + TZ,bi3p.,LISINOPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,20
+Lisinopril,ACEI,bi3q.,*ZESTRIL 2.5mg starter pack,2.5
+Lisinopril,ACEI,bi3r.,LISINOPRIL 2.5mg tablets starter pack,2.5
+Lisinopril,ACEI + TZ,bi3s.,ZESTORETIC 10/12.5mg tablets,10
+Lisinopril,ACEI + TZ,bi3t.,LISINOPRIL+HYDROCHLOROTHIAZIDE 10mg/12.5mg tablets,10
+Lisinopril,ACEI + TZ,bi3u.,*CARALPHA 10/12.5mg tablets,10
+Lisinopril,ACEI + TZ,bi3v.,*CARALPHA 20/12.5mg tablets,20
+Lisinopril,ACEI + TZ,bi3w.,LISICOSTAD HCT 20/12.5mg tablets,20
+Lisinopril,ACEI + TZ,bi3x.,LISICOSTAD HCT 10/12.5mg tablets,10
+Lisinopril,ACEI,bi3y.,LISINOPRIL 1mg/mL oral solution,1
+Moexipril,ACEI,biA1.,MOEXIPRIL HYDROCHLORIDE 7.5mg tablets,7.5
+Moexipril,ACEI,biA2.,MOEXIPRIL HYDROCHLORIDE 15mg tablets,15
+Moexipril,ACEI,biA3.,PERDIX 7.5mg tablets,7.5
+Moexipril,ACEI,biA4.,PERDIX 15mg tablets,15
+Perindopril,ACEI,bi51.,PERINDOPRIL ERBUMINE 2mg tablets,2
+Perindopril,ACEI,bi52.,PERINDOPRIL ERBUMINE 4mg tablets,4
+Perindopril,ACEI,bi53.,*COVERSYL 2mg tablets,2
+Perindopril,ACEI,bi54.,*COVERSYL 4mg tablets,4
+Perindopril,ACEI + TZ,bi55.,PERINDOPRIL ERBUMINE+INDAPAMIDE 4mg/1.25mg tablets,4
+Perindopril,ACEI + TZ,bi56.,COVERSYL PLUS 4mg/1.25mg tablets,4
+Perindopril,ACEI,bi57.,PERINDOPRIL ERBUMINE 8mg tablets,8
+Perindopril,ACEI,bi58.,*COVERSYL 8mg tablets,8
+Perindopril,ACEI,biC1.,COVERSYL ARGININE 2.5mg tablets,2.5
+Perindopril,ACEI,biC2.,PERINDOPRIL ARGININE 2.5mg tablets,2.5
+Perindopril,ACEI,biC3.,COVERSYL ARGININE 5mg tablets,5
+Perindopril,ACEI,biC4.,PERINDOPRIL ARGININE 5mg tablets,5
+Perindopril,ACEI,biC5.,COVERSYL ARGININE 10mg tablets,10
+Perindopril,ACEI,biC6.,PERINDOPRIL ARGININE 10mg tablets,10
+Perindopril,ACEI + TZ,biC7.,COVERSYL ARGININE PLUS 5mg/1.25mg tablets,5
+Perindopril,ACEI + TZ,biC8.,PERINDOPRIL ARGININE+INDAPAMIDE 5mg/1.25mg tablets,5
+Quinapril,ACEI,bi41.,QUINAPRIL 5mg tablets,5
+Quinapril,ACEI,bi42.,QUINAPRIL 10mg tablets,10
+Quinapril,ACEI,bi43.,QUINAPRIL 20mg tablets,20
+Quinapril,ACEI,bi44.,ACCUPRO 5mg tablets 28CP,5
+Quinapril,ACEI,bi45.,ACCUPRO 10mg tablets 28CP,10
+Quinapril,ACEI,bi46.,ACCUPRO 20mg tablets 28CP,20
+Quinapril,ACEI,bi47.,ACCURETIC tablets,
+Quinapril,ACEI + TZ,bi48.,QUINAPRIL+HYDROCHLOROTHIAZIDE 10/12.5mg tablets,10
+Quinapril,ACEI,bi49.,ACCUPRO 40mg tablets,40
+Quinapril,ACEI,bi4A.,QUINAPRIL 40mg tablets,40
+Quinapril,ACEI,bi4B.,QUINIL 5mg tablets,5
+Quinapril,ACEI,bi4C.,QUINIL 10mg tablets,10
+Quinapril,ACEI,bi4D.,QUINIL 20mg tablets,20
+Quinapril,ACEI,bi4E.,QUINIL 40mg tablets,40
+Quinapril,ACEI + TZ,bi4F.,QUINAPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,20
+Ramipril,ACEI,bi61.,RAMIPRIL 1.25mg capsules,1.25
+Ramipril,ACEI,bi62.,RAMIPRIL 2.5mg capsules,2.5
+Ramipril,ACEI,bi63.,RAMIPRIL 5mg capsules,5
+Ramipril,ACEI,bi64.,*TRITACE 1.25mg capsules,1.25
+Ramipril,ACEI,bi65.,*TRITACE 2.5mg capsules,2.5
+Ramipril,ACEI,bi66.,*TRITACE 5mg capsules,5
+Ramipril,ACEI,bi67.,RAMIPRIL 10mg capsules,10
+Ramipril,ACEI,bi68.,*TRITACE 10mg capsules,10
+Ramipril,ACEI,bi69.,RAMIPRIL 2.5mg+5mg+10mg capsules titration pack,
+Ramipril,ACEI,bi6A.,TRITACE Titration Pack capsules,
+Ramipril,ACEI,bi6B.,RAMIPRIL 1.25mg tablets,1.25
+Ramipril,ACEI,bi6C.,RAMIPRIL 2.5mg tablets,2.5
+Ramipril,ACEI,bi6D.,RAMIPRIL 5mg tablets,5
+Ramipril,ACEI,bi6E.,RAMIPRIL 10mg tablets,10
+Ramipril,ACEI,bi6F.,RAMIPRIL 2.5mg+5mg+10mg tablets titration pack,
+Ramipril,ACEI,bi6G.,RAMIPRIL 2.5mg/5mL oral solution,2.5
+Ramipril,ACEI,bi6o.,TRITACE Titration Pack tablets,
+Ramipril,ACEI,bi6p.,*RANACE 10mg capsules,10
+Ramipril,ACEI,bi6q.,*RANACE 5mg capsules,5
+Ramipril,ACEI,bi6r.,*RANACE 2.5mg capsules,2.5
+Ramipril,ACEI,bi6s.,*RANACE 1.25mg capsules,1.25
+Ramipril,ACEI,bi6t.,*LOPACE 2.5mg capsules,2.5
+Ramipril,ACEI,bi6u.,*LOPACE 5mg capsules,5
+Ramipril,ACEI,bi6v.,*LOPACE 10mg capsules,10
+Ramipril,ACEI,bi6w.,TRITACE 10mg tablets,10
+Ramipril,ACEI,bi6x.,TRITACE 5mg tablets,5
+Ramipril,ACEI,bi6y.,TRITACE 2.5mg tablets,2.5
+Ramipril,ACEI,bi6z.,TRITACE 1.25mg tablets,1.25
+Trandolapril,ACEI,bi91.,TRANDOLAPRIL 500micrograms capsules,0.5
+Trandolapril,ACEI,bi92.,TRANDOLAPRIL 1mg capsules,1
+Trandolapril,ACEI,bi93.,TRANDOLAPRIL 2mg capsules,2
+Trandolapril,ACEI,bi94.,*GOPTEN 500micrograms capsules,0.5
+Trandolapril,ACEI,bi95.,*GOPTEN 1mg capsules,1
+Trandolapril,ACEI,bi96.,*GOPTEN 2mg capsules,2
+Trandolapril,ACEI,bi97.,*ODRIK 500micrograms capsules,0.5
+Trandolapril,ACEI,bi98.,*ODRIK 1mg capsules,1
+Trandolapril,ACEI,bi99.,*ODRIK 2mg capsules,2
+Trandolapril,ACEI,bi9A.,*GOPTEN 4mg capsules,4
+Trandolapril,ACEI,bi9z.,TRANDOLAPRIL 4mg capsules,4

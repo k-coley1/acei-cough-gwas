@@ -1,0 +1,168 @@
+﻿ARB,Type,BNF,Description
+Azilsartan,ARB,0205052ADAAAAAA,Azilsartan Medoxomil_Tab 20mg
+Azilsartan,ARB,0205052ADAAABAB,Azilsartan Medoxomil_Tab 40mg
+Azilsartan,ARB,0205052ADAAACAC,Azilsartan Medoxomil_Tab 80mg
+Azilsartan,ARB,0205052ADBBAAAA,Edarbi_Tab 20mg
+Azilsartan,ARB,0205052ADBBABAB,Edarbi_Tab 40mg
+Azilsartan,ARB,0205052ADBBACAC,Edarbi_Tab 80mg
+Candesartan,ARB,0205052C0AAAAAA,Candesartan Cilexetil_Tab 2mg
+Candesartan,ARB,0205052C0AAABAB,Candesartan Cilexetil_Tab 4mg
+Candesartan,ARB,0205052C0AAACAC,Candesartan Cilexetil_Tab 8mg
+Candesartan,ARB,0205052C0AAADAD,Candesartan Cilexetil_Tab 16mg
+Candesartan,ARB,0205052C0AAAEAE,Candesartan Cilexetil_Tab 16mg       @gn
+Candesartan,ARB,0205052C0AAAFAF,Candesartan Cilexetil_Tab 4mg        @gn
+Candesartan,ARB,0205052C0AAAGAG,Candesartan Cilexetil_Tab 8mg        @gn
+Candesartan,ARB,0205052C0AAAHAH,Candesartan Cilexetil_Tab 32mg
+Candesartan,ARB,0205052C0AAAIAI,Candesartan Cilexetil_Liq Spec 4mg/5ml
+Candesartan,ARB,0205052C0AAAJAJ,Candesartan Cilexetil_Liq Spec 8mg/5ml
+Candesartan,ARB,0205052C0BBAAAA,Amias_Tab 2mg
+Candesartan,ARB,0205052C0BBABAB,Amias_Tab 4mg
+Candesartan,ARB,0205052C0BBACAC,Amias_Tab 8mg
+Candesartan,ARB,0205052C0BBADAD,Amias_Tab 16mg
+Candesartan,ARB,0205052C0BBAEAH,Amias_Tab 32mg
+Candesartan,ARB,0205052C0BCAAAB,Atacand_Tab 4mg
+Candesartan,ARB,0205052C0BCABAC,Atacand_Tab 8mg
+Candesartan,ARB,0205052C0BCACAD,Atacand_Tab 16mg
+Candesartan,ARB,0205052C0BDAAAD,Ratacand_Tab 16mg
+Candesartan,ARB,0205052C0BDABAC,Ratacand_Tab 8mg
+Candesartan,ARB,0205052C0BDACAB,Ratacand_Tab 4mg
+Eprosartan,ARB,0205052W0AAAAAA,Eprosartan_Tab 300mg
+Eprosartan,ARB,0205052W0AAABAB,Eprosartan_Tab 400mg
+Eprosartan,ARB,0205052W0AAACAC,Eprosartan_Tab 600mg
+Eprosartan,ARB,0205052W0AAADAD,Eprosartan_Liq Spec 300mg/5ml
+Eprosartan,ARB,0205052W0BBAAAA,Teveten_Tab 300mg
+Eprosartan,ARB,0205052W0BBABAB,Teveten_Tab 400mg
+Eprosartan,ARB,0205052W0BBACAC,Teveten_Tab 600mg
+Irbesartan,ARB + TZ,0205052A0AAAAAA,Irbesartan/Hydchloroth_Tab 150mg/12.5mg
+Irbesartan,ARB + TZ,0205052A0AAABAB,Irbesartan/Hydchloroth_Tab 300mg/12.5mg
+Irbesartan,ARB + TZ,0205052A0AAACAC,Irbesartan/Hydchloroth_Tab 300mg/25mg
+Irbesartan,ARB + TZ,0205052A0BBAAAA,CoAprovel_Tab 150mg/12.5mg
+Irbesartan,ARB + TZ,0205052A0BBABAB,CoAprovel_Tab 300mg/12.5mg
+Irbesartan,ARB + TZ,0205052A0BBACAC,CoAprovel_Tab 300mg/25mg
+Irbesartan,ARB,0205052I0AAAAAA,Irbesartan_Tab 75mg
+Irbesartan,ARB,0205052I0AAABAB,Irbesartan_Tab 150mg
+Irbesartan,ARB,0205052I0AAACAC,Irbesartan_Tab 300mg
+Irbesartan,ARB,0205052I0AAADAD,Irbesartan_Tab 150mg                 @gn
+Irbesartan,ARB,0205052I0AAAEAE,Irbesartan_Tab 300mg                 @gn
+Irbesartan,ARB,0205052I0AAAFAF,Irbesartan_Liq Spec 150mg/5ml
+Irbesartan,ARB,0205052I0AAAGAG,Irbesartan_Liq Spec 300mg/5ml
+Irbesartan,ARB,0205052I0AAAHAH,Irbesartan_Liq Spec 75mg/5ml
+Irbesartan,ARB,0205052I0AAAIAI,Irbesartan_Pdr Sach 300mg
+Irbesartan,ARB,0205052I0AAAJAJ,Irbesartan_Oral Pdr Sach 20mg
+Irbesartan,ARB,0205052I0AAAKAK,Irbesartan_Oral Pdr Sach 30mg
+Irbesartan,ARB,0205052I0AAALAL,Irbesartan_Oral Pdr Sach 37.5mg
+Irbesartan,ARB,0205052I0BBAAAA,Aprovel_Tab 75mg
+Irbesartan,ARB,0205052I0BBABAB,Aprovel_Tab 150mg
+Irbesartan,ARB,0205052I0BBACAC,Aprovel_Tab 300mg
+Irbesartan,ARB,0205052I0BCAAAA,Karvea_Tab 75mg
+Irbesartan,ARB,0205052I0BCABAB,Karvea_Tab 150mg
+Irbesartan,ARB,0205052I0BCACAC,Karvea_Tab 300mg
+Irbesartan,ARB,0205052I0BDAAAA,Sabervel_Tab 75mg
+Irbesartan,ARB,0205052I0BDABAB,Sabervel_Tab 150mg
+Irbesartan,ARB,0205052I0BDACAC,Sabervel_Tab 300mg
+Irbesartan,ARB,0205052I0BEAAAA,Ifirmasta_Tab 75mg
+Irbesartan,ARB,0205052I0BEABAB,Ifirmasta_Tab 150mg
+Irbesartan,ARB,0205052I0BEACAC,Ifirmasta_Tab 300mg
+Losartan,ARB,0205052N0AAAAAA,Losartan Pot_Tab 25mg
+Losartan,ARB,0205052N0AAABAB,Losartan Pot_Tab 50mg
+Losartan,ARB,0205052N0AAACAC,Losartan Pot_Tab 50mg                @gn
+Losartan,ARB,0205052N0AAADAD,Losartan Pot_Tab 100mg
+Losartan,ARB,0205052N0AAAEAE,Losartan Pot_Oral Soln 50mg/5ml
+Losartan,ARB,0205052N0AAAFAF,Losartan Pot_Liq Spec 100mg/5ml
+Losartan,ARB,0205052N0AAAGAG,Losartan Pot_Liq Spec 25mg/5ml
+Losartan,ARB,0205052N0AAAHAH,Losartan Pot_Tab 12.5mg
+Losartan,ARB,0205052N0AAAIAI,Losartan Pot_Oral Susp 12.5mg/5ml S/F
+Losartan,ARB,0205052N0AAAJAJ,Losartan Pot_Oral Susp 50mg/5ml
+Losartan,ARB,0205052N0AAAKAK,Losartan Pot_Oral Susp 20mg/5ml
+Losartan,ARB,0205052N0BBAAAA,Cozaar_Tab 25mg
+Losartan,ARB,0205052N0BBABAB,Cozaar_Tab 50mg
+Losartan,ARB,0205052N0BBACAD,Cozaar_Tab 100mg
+Losartan,ARB,0205052N0BBADAH,Cozaar_Tab 12.5mg
+Losartan,ARB,0205052N0BBAEAI,Cozaar_Oral Susp 2.5mg/ml
+Losartan,ARB,0205052N0BCAAAB,Losaprex_Tab 50mg
+Losartan,ARB + TZ,0205052P0AAAAAA,Losartan Pot/Hydchloroth_Tab 50mg/12.5mg
+Losartan,ARB + TZ,0205052P0AAABAB,Losartan Pot/Hydchloroth_Tab 100mg/25mg
+Losartan,ARB + TZ,0205052P0AAACAC,Losartan Pot/Hydchloroth_Tab 100/12.5mg
+Losartan,ARB + TZ,0205052P0BBAAAA,Cozaar-Comp_Tab 50mg/12.5mg
+Losartan,ARB + TZ,0205052P0BBABAB,Cozaar-Comp_Tab 100mg/25mg
+Losartan,ARB + TZ,0205052P0BBACAC,Cozaar-Comp_Tab 100mg/12.5mg
+Losartan,ARB + TZ,0205052P0BCAAAA,Hyzaar_Tab
+Olmesartan,ARB + CCB,0205052ABAAAAAA,Olmesartan Medox/Amlodipine_Tab 20mg/5mg
+Olmesartan,ARB + CCB,0205052ABAAABAB,Olmesartan Medox/Amlodipine_Tab 40mg/5mg
+Olmesartan,ARB + CCB,0205052ABAAACAC,Olmesartan Medox/Amlodipine_Tab40mg/10mg
+Olmesartan,ARB + CCB,0205052ABBBAAAA,Sevikar_Tab 20mg/5mg
+Olmesartan,ARB + CCB,0205052ABBBABAB,Sevikar_Tab 40mg/5mg
+Olmesartan,ARB + CCB,0205052ABBBACAC,Sevikar_Tab 40mg/10mg
+Olmesartan,ARB + CCB + TZ,0205052ACAAAAAA,Olmesartan/Amlodipine/Hydchloroth_Tab
+Olmesartan,ARB + CCB + TZ,0205052ACAAABAB,Olmesartan/Amlodipine/Hydchloroth_Tab
+Olmesartan,ARB + CCB + TZ,0205052ACAAACAC,Olmesartan/Amlodipine/Hydchloroth_Tab
+Olmesartan,ARB + CCB + TZ,0205052ACAAADAD,Olmesartan/Amlodipine/Hydchloroth_Tab
+Olmesartan,ARB + CCB + TZ,0205052ACAAAEAE,Olmesartan/Amlodipine/Hydchloroth_Tab
+Olmesartan,ARB + CCB + TZ,0205052ACBBAAAA,Sevikar HCT_Tab 20mg/5mg/12.5mg
+Olmesartan,ARB + CCB + TZ,0205052ACBBABAB,Sevikar HCT_Tab 40mg/5mg/12.5mg
+Olmesartan,ARB + CCB + TZ,0205052ACBBACAC,Sevikar HCT_Tab 40mg/10mg/12.5mg
+Olmesartan,ARB + CCB + TZ,0205052ACBBADAD,Sevikar HCT_Tab 40mg/5mg/25mg
+Olmesartan,ARB + CCB + TZ,0205052ACBBAEAE,Sevikar HCT_Tab 40mg/10mg/25mg
+Olmesartan,ARB,0205052B0AAAAAA,Olmesartan Medoxomil_Tab 10mg
+Olmesartan,ARB,0205052B0AAABAB,Olmesartan Medoxomil_Tab 20mg
+Olmesartan,ARB,0205052B0AAACAC,Olmesartan Medoxomil_Tab 40mg
+Olmesartan,ARB,0205052B0AAADAD,Olmesartan Medoxomil_Liq Spec 10mg/5ml
+Olmesartan,ARB,0205052B0BBAAAA,Olmetec_Tab 10mg
+Olmesartan,ARB,0205052B0BBABAB,Olmetec_Tab 20mg
+Olmesartan,ARB,0205052B0BBACAC,Olmetec_Tab 40mg
+Olmesartan,ARB + TZ,0205052Y0AAAAAA,Olmesartan Medox/Hydchloroth_Tab 20/12.5
+Olmesartan,ARB + TZ,0205052Y0AAABAB,Olmesartan Medox/Hydchloroth_Tab 20/25mg
+Olmesartan,ARB + TZ,0205052Y0AAACAC,Olmesartan Medox/Hydchloroth_Tab 40/12.5
+Olmesartan,ARB + TZ,0205052Y0BBAAAA,Olmetec Plus_Tab 20mg/12.5mg
+Olmesartan,ARB + TZ,0205052Y0BBABAB,Olmetec Plus_Tab 20mg/25mg
+Olmesartan,ARB + TZ,0205052Y0BBACAC,Olmetec Plus_Tab 40mg/12.5mg
+Telmisartan,ARB,0205052Q0AAAAAA,Telmisartan_Tab 40mg
+Telmisartan,ARB,0205052Q0AAABAB,Telmisartan_Tab 80mg
+Telmisartan,ARB,0205052Q0AAACAC,Telmisartan_Tab 20mg
+Telmisartan,ARB,0205052Q0AAADAD,Telmisartan_Oral Susp 40mg/5ml
+Telmisartan,ARB,0205052Q0BBAAAA,Micardis_Tab 40mg
+Telmisartan,ARB,0205052Q0BBABAB,Micardis_Tab 80mg
+Telmisartan,ARB,0205052Q0BBACAC,Micardis_Tab 20mg
+Telmisartan,ARB,0205052Q0BCAAAA,Tolura_Tab 40mg
+Telmisartan,ARB,0205052Q0BCABAB,Tolura_Tab 80mg
+Telmisartan,ARB,0205052Q0BCACAC,Tolura_Tab 20mg
+Telmisartan,ARB + TZ,0205052R0AAAAAA,Telmisartan/Hydchloroth_Tab 40mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0AAABAB,Telmisartan/Hydchloroth_Tab 80mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0AAACAC,Telmisartan/Hydchloroth_Tab 80mg/25mg
+Telmisartan,ARB + TZ,0205052R0BBAAAA,MicardisPlus_Tab 40mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0BBABAB,MicardisPlus_Tab 80mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0BBACAC,MicardisPlus_Tab 80mg/25mg
+Telmisartan,ARB + TZ,0205052R0BCAAAA,Actelsar HCT_Tab 40mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0BCABAB,Actelsar HCT_Tab 80mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0BCACAC,Actelsar HCT_Tab 80mg/25mg
+Telmisartan,ARB + TZ,0205052R0BDAAAA,Tolucombi_Tab 40mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0BDABAB,Tolucombi_Tab 80mg/12.5mg
+Telmisartan,ARB + TZ,0205052R0BDACAC,Tolucombi_Tab 80mg/25mg
+Valsartan,ARB + ARNI,0205052AEAAAAAA,Sacubitril/Valsartan_Tab 49mg/51mg
+Valsartan,ARB + ARNI,0205052AEAAABAB,Sacubitril/Valsartan_Tab 97mg/103mg
+Valsartan,ARB + ARNI,0205052AEAAACAC,Sacubitril/Valsartan_Tab 24mg/26mg
+Valsartan,ARB + ARNI,0205052AEBBAAAA,Entresto_Tab 49mg/51mg
+Valsartan,ARB + ARNI,0205052AEBBABAB,Entresto_Tab 97mg/103mg
+Valsartan,ARB + ARNI,0205052AEBBACAC,Entresto_Tab 24mg/26mg
+Valsartan,ARB,0205052V0AAAAAA,Valsartan_Cap 40mg
+Valsartan,ARB,0205052V0AAABAB,Valsartan_Cap 80mg
+Valsartan,ARB,0205052V0AAACAC,Valsartan_Cap 160mg
+Valsartan,ARB,0205052V0AAADAD,Valsartan_Tab 40mg
+Valsartan,ARB,0205052V0AAAEAE,Valsartan_Liq Spec 40mg/5ml
+Valsartan,ARB,0205052V0AAAFAF,Valsartan_Tab 320mg
+Valsartan,ARB,0205052V0AAAGAG,Valsartan_Liq Spec 160mg/5ml
+Valsartan,ARB,0205052V0AAAHAH,Valsartan_Tab 160mg
+Valsartan,ARB,0205052V0AAAIAI,Valsartan_Tab 80mg
+Valsartan,ARB,0205052V0AAAJAJ,Valsartan_Oral Soln 3mg/ml
+Valsartan,ARB,0205052V0BBAAAA,Diovan_Cap 40mg
+Valsartan,ARB,0205052V0BBABAB,Diovan_Cap 80mg
+Valsartan,ARB,0205052V0BBACAC,Diovan_Cap 160mg
+Valsartan,ARB,0205052V0BBADAD,Diovan_Tab 40mg
+Valsartan,ARB,0205052V0BBAEAF,Diovan_Tab 320mg
+Valsartan,ARB,0205052V0BBAFAJ,Diovan_Oral Soln 3mg/1ml
+Valsartan,ARB + TZ,0205052X0AAAAAA,Valsartan/Hydchloroth_Tab 160mg/12.5mg
+Valsartan,ARB + TZ,0205052X0AAABAB,Valsartan/Hydchloroth_Tab 160mg/25mg
+Valsartan,ARB + TZ,0205052X0AAACAC,Valsartan/Hydchloroth_Tab 80mg/12.5mg
+Valsartan,ARB + TZ,0205052X0BBAAAA,Co-Diovan_Tab 160mg/12.5mg
+Valsartan,ARB + TZ,0205052X0BBABAB,Co-Diovan_Tab 160mg/25mg
+Valsartan,ARB + TZ,0205052X0BBACAC,Co-Diovan_Tab 80mg/12.5mg

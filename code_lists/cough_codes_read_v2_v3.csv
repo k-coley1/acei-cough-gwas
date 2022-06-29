@@ -1,0 +1,33 @@
+Read_v2,Read_v3,Description
+R062.,R062.,[D]Cough
+R0620,R0620,[D]Cough syncope
+R0621,XaYYO,[D]Episodic dry cough
+171..,XE0qn,Cough
+171..,XM0Ch,C/O - cough
+171..,X76I3,Sputum - symptom
+1712.,1712.,Dry cough
+1713.,1713.,Productive cough -clear sputum
+1714.,1714.,Productive cough -green sputum
+1715.,1715.,Productive cough-yellow sputum
+1716.,XE0qo,Productive cough NOS
+1716.,X76Hy,Productive cough
+1716.,X76Hy,Producing sputum
+1717.,1717.,Night cough present
+1719.,1719.,Chesty cough
+1719.,1719.,Bronchial cough
+171A.,171A.,Chronic cough
+171B.,Xa2kc,Persistent cough
+171C.,171C.,Morning cough
+171D.,171D.,Evening cough
+171E.,XaFwR,Unexplained cough
+171F.,XaIO1,Cough with fever
+171G.,Xa7uA,Bovine cough
+171J.,XaLCS,Reflux cough
+171K.,Xa4fN,Barking cough
+171L.,XaBmo,Cough on exercise
+171Z.,171Z.,Cough symptom NOS
+E2611,E2611,Psychogenic cough
+H3101,H3101,Smokers' cough
+173B.,173B.,Nocturnal cough / wheeze
+,Xa6a9,Increasing frequency of cough
+,E2611,Psychogenic cough

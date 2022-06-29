@@ -1,0 +1,116 @@
+﻿ARB,Type,Read_v2,Description,Dosage_mg
+Azilsartan,ARB,bkJ1.,EDARBI 20mg tablets,20
+Azilsartan,ARB,bkJ2.,AZILSARTAN MEDOXOMIL 20mg tablets,20
+Azilsartan,ARB,bkJ3.,EDARBI 40mg tablets,40
+Azilsartan,ARB,bkJ4.,AZILSARTAN MEDOXOMIL 40mg tablets,40
+Azilsartan,ARB,bkJ5.,EDARBI 80mg tablets,80
+Azilsartan,ARB,bkJ6.,AZILSARTAN MEDOXOMIL 80mg tablets,80
+Candesartan,ARB,bk71.,CANDESARTAN CILEXETIL 2mg tablets,2
+Candesartan,ARB,bk72.,CANDESARTAN CILEXETIL 4mg tablets,4
+Candesartan,ARB,bk73.,CANDESARTAN CILEXETIL 8mg tablets,8
+Candesartan,ARB,bk74.,CANDESARTAN CILEXETIL 16mg tablets,16
+Candesartan,ARB,bk75.,AMIAS 2mg tablets,2
+Candesartan,ARB,bk76.,AMIAS 4mg tablets,4
+Candesartan,ARB,bk77.,AMIAS 8mg tablets,8
+Candesartan,ARB,bk78.,AMIAS 16mg tablets,16
+Candesartan,ARB,bk79.,AMIAS 32mg tablets,32
+Candesartan,ARB,bk7z.,CANDESARTAN CILEXETIL 32mg tablets,32
+Eprosartan,ARB,bk91.,TEVETEN 300mg tablets,300
+Eprosartan,ARB,bk92.,*TEVETEN 400mg tablets,400
+Eprosartan,ARB,bk93.,TEVETEN 600mg tablets,600
+Eprosartan,ARB,bk9x.,EPROSARTAN 300mg tablets,300
+Eprosartan,ARB,bk9y.,EPROSARTAN 400mg tablets,400
+Eprosartan,ARB,bk9z.,EPROSARTAN 600mg tablets,600
+Irbesartan,ARB,bk51.,IRBESARTAN 75mg tablets,75
+Irbesartan,ARB,bk52.,IRBESARTAN 150mg tablets,150
+Irbesartan,ARB,bk53.,IRBESARTAN 300mg tablets,300
+Irbesartan,ARB,bk54.,APROVEL 75mg tablets,75
+Irbesartan,ARB,bk55.,APROVEL 150mg tablets,150
+Irbesartan,ARB,bk56.,APROVEL 300mg tablets,300
+Irbesartan,ARB + TZ,bk57.,COAPROVEL 150mg/12.5mg tablets,150
+Irbesartan,ARB + TZ,bk58.,COAPROVEL 300mg/12.5mg tablets,300
+Irbesartan,ARB + TZ,bk59.,COAPROVEL 300mg/25mg tablets,300
+Irbesartan,ARB + TZ,bk5x.,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/25mg tablets,300
+Irbesartan,ARB + TZ,bk5y.,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/12.5mg tablets,300
+Irbesartan,ARB + TZ,bk5z.,IRBESARTAN+HYDROCHLOROTHIAZIDE 150mg/12.5mg tablets,150
+Losartan,ARB,bk31.,LOSARTAN POTASSIUM 25mg tablets,25
+Losartan,ARB,bk32.,LOSARTAN POTASSIUM 50mg tablets,50
+Losartan,ARB,bk33.,COZAAR HALF-STRENGTH 25mg tablets,25
+Losartan,ARB,bk34.,COZAAR 50mg tablets,50
+Losartan,ARB + TZ,bk35.,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 50mg/12.5mg tablets,50
+Losartan,ARB + TZ,bk36.,COZAAR-COMP 50mg/12.5mg tablets,50
+Losartan,ARB,bk37.,LOSARTAN POTASSIUM 100mg tablets,100
+Losartan,ARB,bk38.,COZAAR 100mg tablets,100
+Losartan,ARB + TZ,bk39.,COZAAR-COMP 100mg/25mg tablets,100
+Losartan,ARB + TZ,bk3A.,COZAAR-COMP 100mg/12.5mg tablets,100
+Losartan,ARB,bk3B.,COZAAR 12.5mg tablets,12.5
+Losartan,ARB,bk3C.,LOSARTAN POTASSIUM 12.5mg tablets,12.5
+Losartan,ARB,bk3D.,COZAAR 2.5mg/mL oral suspension,2.5
+Losartan,ARB,bk3E.,LOSARTAN POTASSIUM 2.5mg/mL oral suspension,2.5
+Losartan,ARB,bk3F.,ZOVENCAL 25mg tablets,25
+Losartan,ARB,bk3G.,ZOVENCAL 50mg tablets,50
+Losartan,ARB,bk3H.,ZOVENCAL 100mg tablets,100
+Losartan,ARB + TZ,bk3y.,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets,100
+Losartan,ARB + TZ,bk3z.,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/25mg tablets,100
+Olmesartan,ARB,bkB1.,OLMESARTAN MEDOXOMIL 10mg tablets,10
+Olmesartan,ARB,bkB2.,OLMESARTAN MEDOXOMIL 20mg tablets,20
+Olmesartan,ARB,bkB3.,OLMESARTAN MEDOXOMIL 40mg tablets,40
+Olmesartan,ARB,bkB4.,OLMETEC 10mg tablets,10
+Olmesartan,ARB,bkB5.,OLMETEC 20mg tablets,20
+Olmesartan,ARB,bkB6.,OLMETEC 40mg tablets,40
+Olmesartan,ARB + TZ,bkC1.,OLMETEC PLUS 20mg/12.5mg tablets,20
+Olmesartan,ARB + TZ,bkC2.,OLMETEC PLUS 20mg/25mg tablets,20
+Olmesartan,ARB + TZ,bkC3.,OLMETEC PLUS 40mg/12.5mg tablets,40
+Olmesartan,ARB + TZ,bkCx.,OLMESARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets,40
+Olmesartan,ARB + TZ,bkCy.,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/25mg tablets,20
+Olmesartan,ARB + TZ,bkCz.,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets,20
+Olmesartan,ARB + CCB,bkH1.,SEVIKAR 20mg/5mg tablets,20
+Olmesartan,ARB + CCB,bkH2.,SEVIKAR 40mg/5mg tablets,40
+Olmesartan,ARB + CCB,bkH3.,SEVIKAR 40mg/10mg tablets,40
+Olmesartan,ARB + CCB,bkHx.,OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/10mg tablets,40
+Olmesartan,ARB + CCB,bkHy.,OLMESARTAN MEDOXOMIL+AMLODIPINE 40mg/5mg tablets,40
+Olmesartan,ARB + CCB,bkHz.,OLMESARTAN MEDOXOMIL+AMLODIPINE 20mg/5mg tablets,20
+Telmisartan,ARB,bk81.,TELMISARTAN 40mg tablets,40
+Telmisartan,ARB,bk82.,TELMISARTAN 80mg tablets,80
+Telmisartan,ARB,bk83.,MICARDIS 40mg tablets,40
+Telmisartan,ARB,bk84.,MICARDIS 80mg tablets,80
+Telmisartan,ARB,bk85.,MICARDIS 20mg tablets,20
+Telmisartan,ARB + TZ,bk86.,MICARDISPLUS 40mg/12.5mg tablets,40
+Telmisartan,ARB + TZ,bk87.,MICARDISPLUS 80mg/12.5mg tablets,80
+Telmisartan,ARB + TZ,bk88.,MICARDISPLUS 80mg/25mg tablets,80
+Telmisartan,ARB + TZ,bk8w.,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/25mg tablets,80
+Telmisartan,ARB + TZ,bk8x.,TELMISARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets,40
+Telmisartan,ARB + TZ,bk8y.,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,80
+Telmisartan,ARB,bk8z.,TELMISARTAN 20mg tablets,20
+Valsartan,ARB,bk41.,VALSARTAN 40mg capsules,40
+Valsartan,ARB,bk42.,VALSARTAN 80mg capsules,80
+Valsartan,ARB,bk43.,VALSARTAN 160mg capsules,160
+Valsartan,ARB,bk44.,DIOVAN 40mg capsules,40
+Valsartan,ARB,bk45.,DIOVAN 80mg capsules,80
+Valsartan,ARB,bk46.,DIOVAN 160mg capsules,160
+Valsartan,ARB + TZ,bk47.,CO-DIOVAN 160mg/12.5mg tablets,160
+Valsartan,ARB + TZ,bk48.,CO-DIOVAN 160mg/25mg tablets,160
+Valsartan,ARB + TZ,bk49.,CO-DIOVAN 80mg/12.5mg tablets,80
+Valsartan,ARB,bk4A.,DIOVAN 40mg tablets,40
+Valsartan,ARB,bk4B.,DIOVAN 320mg tablets,320
+Valsartan,ARB,bk4C.,DIOVAN 3mg/mL oral solution,3
+Valsartan,ARB,bk4s.,VALSARTAN 80mg tablets,80
+Valsartan,ARB,bk4t.,VALSARTAN 160mg tablets,160
+Valsartan,ARB,bk4u.,VALSARTAN 3mg/mL oral solution,3
+Valsartan,ARB,bk4v.,VALSARTAN 320mg tablets,320
+Valsartan,ARB,bk4w.,VALSARTAN 40mg tablets,40
+Valsartan,ARB + TZ,bk4x.,VALSARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets,80
+Valsartan,ARB + TZ,bk4y.,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/25mg tablets,160
+Valsartan,ARB + TZ,bk4z.,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/12.5mg tablets,160
+Valsartan,ARB + CCB,bkD1.,AMLODIPINE+VALSARTAN 5mg/80mg tablets,80
+Valsartan,ARB + CCB,bkD2.,AMLODIPINE+VALSARTAN 5mg/160mg tablets,160
+Valsartan,ARB + CCB,bkD3.,AMLODIPINE+VALSARTAN 10mg/160mg tablets,160
+Valsartan,ARB + CCB,bkDx.,EXFORGE 10mg/160mg tablets,160
+Valsartan,ARB + CCB,bkDy.,EXFORGE 5mg/160mg tablets,160
+Valsartan,ARB + CCB,bkDz.,EXFORGE 5mg/80mg tablets,80
+Valsartan,ARB + ARNI,bkL1.,ENTRESTO 24mg/26mg tablets,26
+Valsartan,ARB + ARNI,bkL2.,SACUBITRIL+VALSARTAN 24mg/26mg tablets,26
+Valsartan,ARB + ARNI,bkL3.,ENTRESTO 49mg/51mg tablets,51
+Valsartan,ARB + ARNI,bkL4.,SACUBITRIL+VALSARTAN 49mg/51mg tablets,51
+Valsartan,ARB + ARNI,bkL5.,ENTRESTO 97mg/103mg tablets,103
+Valsartan,ARB + ARNI,bkL6.,SACUBITRIL+VALSARTAN 97mg/103mg tablets,103
