@@ -1,5 +1,7 @@
 # Genome-wide association study of ACE inhibitor-induced cough
 
+[![DOI](https://zenodo.org/badge/508767137.svg)](https://zenodo.org/badge/latestdoi/508767137)
+
 This repository contains code to define ACE inhibitor (ACEI)-induced cough in primary care data linked to UK Biobank participants.
 
 ## Repository structure
